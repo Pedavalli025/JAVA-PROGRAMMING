@@ -1,4 +1,4 @@
-
+// Printing Star Pattern in Single Column
 public class cline
 {
     public static void main(String[] args)
